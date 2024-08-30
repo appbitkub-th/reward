@@ -1,0 +1,26 @@
+.chat-fc-form-outer {
+}
+
+.pre-fc-field {
+  margin-top: 28px;
+}
+
+.pre-fc-field input {
+  padding: 12px 8px 8px 8px !important;
+  font-size: 16px;
+}
+
+.fc-button {
+  margin-top: 30px;
+  text-decoration: none;
+}
+
+#fc_frame {
+  padding-top: 8px;
+}
+
+@media (max-width: 768px) {
+  #fc_frame {
+    padding-top: 0px;
+  }
+}

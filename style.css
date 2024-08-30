@@ -1,0 +1,342 @@
+.css-1gnht4k {
+    letter-spacing: inherit;
+    color: currentcolor;
+    box-sizing: content-box;
+    height: 1.4375em;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 100%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+    font: inherit;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    background: none;
+    margin: 0px;
+    padding: 16.5px 0px;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+.css-17lyque {
+    font-family: __graphikth_ecdd67, __graphikth_Fallback_ecdd67;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.4375em;
+    color: rgba(0, 0, 0, 0.87);
+    box-sizing: border-box;
+    cursor: text;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    border-radius: 4px;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+body[class='light'] {
+    --colors-text-primary: #252D2C;
+    --colors-text-secondary: #A1ADA5;
+    --colors-bg-primary: #F5F5F5;
+    --colors-bg-secondary: #FFFFFF;
+    --colors-general-primary: #02D767;
+    --colors-general-secondary: #F42C5C;
+    --colors-general-tertiary: #FFCC33;
+    --bitkub: #10d675;
+    --bitkub-transparent-bkt-90: #10d675e5;
+    --bitkub-transparent-bkt-80: #10d675cc;
+    --bitkub-transparent-bkt-70: #10d675b2;
+    --bitkub-transparent-bkt-60: #10d67599;
+    --bitkub-transparent-bkt-50: #10d6757f;
+    --bitkub-transparent-bkt-40: #10d67566;
+    --bitkub-transparent-bkt-30: #10d6754c;
+    --bitkub-transparent-bkt-20: #10d67533;
+    --bitkub-transparent-bkt-10: #10d67519;
+    --neutral-active: #121616;
+    --neutral-body-1: #2d3635;
+    --neutral-body-2: #55605e;
+    --neutral-placeholder: #8d9c98;
+    --neutral-disabled-text: #bcc8c4;
+    --neutral-line-1: #d2dad8;
+    --neutral-bg-base: #f4f6f6;
+    --neutral-bg-1: #ffffff;
+    --neutral-bg-2: #fafbfb;
+    --neutral-bg-3: #e9edec;
+    --neutral-bg-4: #dee4e2;
+    --basecolor-white-default: #ffffff;
+    --basecolor-white-transparent-90: #ffffffe5;
+    --basecolor-white-transparent-80: #ffffffcc;
+    --basecolor-white-transparent-70: #ffffffb2;
+    --basecolor-white-transparent-60: #ffffff99;
+    --system-success-default: #16c784;
+    --basecolor-white-transparent-50: #ffffff7f;
+    --system-success-50: #16c7847f;
+    --system-success-40: #16c78466;
+    --basecolor-white-transparent-40: #ffffff66;
+    --basecolor-white-transparent-30: #ffffff4c;
+    --system-success-30: #16c7844c;
+    --basecolor-white-transparent-20: #ffffff33;
+    --system-success-20: #16c78433;
+    --system-success-10: #16c78419;
+    --basecolor-white-transparent-10: #ffffff19;
+    --system-warning-default: #f8b706;
+    --system-error-default: #f04253;
+    --system-info-default: #549ff6;
+    --system-warning-50: #f8b7067f;
+    --system-warning-40: #f8b70666;
+    --system-warning-30: #f8b7064c;
+    --system-warning-20: #f8b70633;
+    --system-warning-10: #f8b70619;
+    --system-info-50: #549ff67f;
+    --system-info-40: #549ff666;
+    --system-info-30: #549ff64c;
+    --system-info-20: #549ff633;
+    --system-info-10: #549ff619;
+    --system-error-50: #f042537f;
+    --system-error-40: #f0425366;
+    --system-error-30: #f042534c;
+    --system-error-20: #f0425333;
+    --system-error-10: #f0425319;
+    --status-waiting: #3890f5;
+    --status-pending: #f8b706;
+    --status-processing: #f8b706;
+    --status-complete: #14b376;
+    --status-rejected: #f04253;
+    --status-canceled: #a4b0b2;
+    --button-filled-primary-default: #10d675;
+    --button-fg-default-white: #ffffff;
+    --button-filled-primary-hovered: #0dab5e;
+    --button-filled-primary-pressed: #06552f;
+    --exchange-high-default: #10d675;
+    --exchange-high-50: #10d6757f;
+    --exchange-high-40: #10d67566;
+    --exchange-high-30: #10d6754c;
+    --exchange-high-20: #10d67533;
+    --exchange-high-10: #10d67519;
+    --exchange-down-default: #f04253;
+    --exchange-down-50: #f042537f;
+    --exchange-down-40: #f0425366;
+    --exchange-down-30: #f042534c;
+    --exchange-down-20: #f0425333;
+    --button-fg-default-green: #10d675;
+    --exchange-down-10: #f0425319;
+    --exchange-star-default: #fac942;
+    --exchange-star-50: #fac9427f;
+    --exchange-star-40: #fac94266;
+    --exchange-star-30: #fac9424c;
+    --exchange-star-20: #fac94233;
+    --exchange-star-10: #fac94219;
+    --basecolor-black-default: #000000;
+    --basecolor-black-transparent-90: #000000e5;
+    --basecolor-black-transparent-80: #000000cc;
+    --basecolor-black-transparent-70: #000000b2;
+    --basecolor-black-transparent-60: #00000099;
+    --basecolor-black-transparent-50: #0000007f;
+    --basecolor-black-transparent-40: #00000066;
+    --basecolor-black-transparent-30: #0000004c;
+    --basecolor-black-transparent-20: #00000033;
+    --basecolor-black-transparent-10: #00000019;
+    --button-fg-disabled: #bcc8c4;
+    --button-filled-secondary-default: #e7fdf3;
+    --button-disabled: #e9edec;
+    --button-filled-secondary-hovered: #e7fdf3;
+    --button-fg-tertiary: #f04253;
+    --button-filled-secondary-fg-hovered: #0dab5e;
+    --button-filled-secondary-pressed: #cbfbe4;
+    --button-filled-secondary-fg-pressed: #06552f;
+    --button-filled-tertiary-default: #f04253;
+    --button-filled-tertiary-hovered: #f042537f;
+    --button-filled-tertiary-pressed: #f0425333;
+    --button-outline-primary-stroke: #10d67566;
+    --button-outline-primary-hovered: #10d67519;
+    --button-outline-primary-pressed: #10d67533;
+    --button-outline-secondary-fg-default: #000000;
+    --button-outline-secondary-stroke: #000000cc;
+    --button-outline-secondary-hovered: #00000019;
+    --button-outline-secondary-pressed: #00000033;
+    --button-outline-tertiary-stroke: #f0425366;
+    --button-outline-tertiary-hovered: #f0425319;
+    --button-outline-tertiary-pressed: #f0425333;
+    --button-text-primary-hovered: #10d67519;
+    --button-text-primary-pressed: #10d67533;
+    --button-text-secondary-fg-default: #000000;
+    --button-text-secondary-hovered: #00000019;
+    --button-text-secondary-pressed: #00000033;
+    --button-text-tertiary-hovered: #f0425319;
+    --button-text-tertiary-pressed: #f0425333;
+    --button-hyperlink-primary-default: #0d78f2;
+    --button-hyperlink-secondary-default: #000000;
+    --button-hyperlink-tertiary-default: #f04253;
+    background: #F5F5F5;
+}
+
+body {
+    margin: 0;
+    color: rgba(0, 0, 0, 0.87);
+    font-family: '__graphikth_ecdd67','__graphikth_Fallback_ecdd67';
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    background-color: #fff;
+}
+
+html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
+    -webkit-text-size-adjust: 100%;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-corner {
+    background-color: #F9F9F9;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #C1C1C1;
+    border: 2px solid #C1C1C1;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    background-clip: content-box;
+}
+
+::-webkit-scrollbar-track-piece {
+    background-color: #F9F9F9;
+}
+
+0% {
+    display: block;
+}
+
+.css-1a6giau {
+    display: flex;
+    height: 0.01em;
+    max-height: 2em;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+    color: rgba(0, 0, 0, 0.54);
+    margin-right: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.css-igs3ac {
+    text-align: left;
+    position: absolute;
+    inset: -5px 0px 0px;
+    margin: 0px;
+    padding: 0px 8px;
+    pointer-events: none;
+    border-radius: inherit;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    min-width: 0%;
+    border-color: rgba(0, 0, 0, 0.23);
+}
+
+.css-ihdtdm {
+    float: unset;
+    width: auto;
+    line-height: 11px;
+    overflow: hidden;
+    padding: 0px;
+    transition: width 150ms cubic-bezier(0, 0, 0.2, 1);
+}
+
+
+
+.css-ekeie0 {
+    height: 100%;
+    outline: 0px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+.css-uhb5lp {
+    background-color: rgb(255, 255, 255);
+    color: rgba(0, 0, 0, 0.87);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 11px 15px -7px, rgba(0, 0, 0, 0.14) 0px 24px 38px 3px, rgba(0, 0, 0, 0.12) 0px 9px 46px 8px;
+    position: relative;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100% - 64px);
+    max-width: 600px;
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    border-radius: 4px;
+    margin: 32px;
+}
+
+
+.css-126xj0f {
+    position: fixed;
+    z-index: 1300;
+    inset: 0px;
+}
+
+
+.css-i44wyl {
+    display: inline-flex;
+    flex-direction: column;
+    position: relative;
+    min-width: 0px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    vertical-align: top;
+}
+
+.css-199wwdc {
+    font-family: __graphikth_ecdd67, __graphikth_Fallback_ecdd67;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.4375em;
+    color: rgba(0, 0, 0, 0.87);
+    box-sizing: border-box;
+    cursor: text;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    border-radius: 4px;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+.css-ihdtdm {
+    float: unset;
+    width: auto;
+    line-height: 11px;
+    overflow: hidden;
+    padding: 0px;
+    transition: width 150ms cubic-bezier(0, 0, 0.2, 1);
+}
